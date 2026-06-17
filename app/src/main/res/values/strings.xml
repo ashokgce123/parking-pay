@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Parking Pay</string>
+    <string name="google_pay_icon">Google Pay Icon</string>
+    <string name="parking_payment">Parking Payment</string>
+    <string name="amount_display">₹ 15.00</string>
+    <string name="payment_description">Pay for your parking using Google Pay via UPI</string>
+    <string name="pay_now">Pay Now with Google Pay</string>
+</resources>
